@@ -29,4 +29,7 @@ You can use CSR for dynamic parts of your application, giving you flexibility in
 Next.js allows you to mix SSR, SSG, and CSR within the same application. 
 You can choose the best rendering strategy for each page or route.
 
+5. API Routes
+You can create backend APIs directly within your Next.js application using API routes. 
+This eliminates the need for a separate backend service for simple use cases.
 */
