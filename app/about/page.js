@@ -22,4 +22,7 @@ Next.js supports server-side rendering, which allows pages to be pre-rendered on
 With SSG, Next.js can generate static HTML at build time, resulting in fast-loading pages. 
 This is great for blogs, documentation, or e-commerce sites with mostly static content.
 
+3. Client-Side Rendering (CSR)
+You can use CSR for dynamic parts of your application, giving you flexibility in how you load and display data.
+
 */
