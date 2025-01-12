@@ -10,6 +10,14 @@ export default function AboutUs() {
 }
 
 /* 
+Next.js is a popular React framework that offers a wide range of features and benefits for modern web development. Here are the key reasons to use Next.js:
+
+1. Server-Side Rendering (SSR)
+Next.js supports server-side rendering, which allows pages to be pre-rendered on the server and sent to the browser. This improves:
+
+ * SEO, as search engines can easily index pre-rendered content.
+ * Performance by reducing the time to first render.
+  
 
 
 */
