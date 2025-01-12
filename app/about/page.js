@@ -32,4 +32,12 @@ You can choose the best rendering strategy for each page or route.
 5. API Routes
 You can create backend APIs directly within your Next.js application using API routes. 
 This eliminates the need for a separate backend service for simple use cases.
+
+6. Built-In Performance Optimizations
+Next.js comes with optimizations like:
+
+ * Image optimization via the next/image component.
+ * Code splitting and lazy loading to reduce initial bundle size.
+ * Automatic static optimization for static pages.
+
 */
