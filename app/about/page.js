@@ -18,6 +18,8 @@ Next.js supports server-side rendering, which allows pages to be pre-rendered on
  * SEO, as search engines can easily index pre-rendered content.
  * Performance by reducing the time to first render.
   
-
+2. Static Site Generation (SSG)
+With SSG, Next.js can generate static HTML at build time, resulting in fast-loading pages. 
+This is great for blogs, documentation, or e-commerce sites with mostly static content.
 
 */
