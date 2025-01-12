@@ -25,5 +25,8 @@ This is great for blogs, documentation, or e-commerce sites with mostly static c
 3. Client-Side Rendering (CSR)
 You can use CSR for dynamic parts of your application, giving you flexibility in how you load and display data.
 
+4. Hybrid Rendering
+Next.js allows you to mix SSR, SSG, and CSR within the same application. 
+You can choose the best rendering strategy for each page or route.
 
 */
